@@ -1,0 +1,28 @@
+name: pylis_env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python
+  - pip
+  - cartopy
+  - matplotlib
+  - netCDF4
+  - numpy
+  - pandas
+  - pathlib
+  - statsmodels
+  - scipy
+  - tqdm
+  - xarray
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - openpyxl
+  - pyresample
+  - cython
+  - pip:
+    - pytesmo==0.1
+    - ismn
