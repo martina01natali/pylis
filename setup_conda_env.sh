@@ -56,7 +56,6 @@ echo ""
 
 # Get folder root path
 if [ $# -eq 0 ]; then
-
 	fp_env_tag=$fp_env_tag_default	
     fp_env_folder_root=$fp_env_folder_root_default		
 	fp_env_file_reference=$fp_env_file_reference_default
