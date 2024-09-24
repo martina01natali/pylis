@@ -8,7 +8,7 @@ script_date='2024/08/30'
 
 
 # Define working directory
-fp_cwd=$(pwd) # no slash at the end!
+fp_cwd=$(pwd)
 
 # Define file reference path according with https link(s) --> https://repo.anaconda.com/miniconda/
 fp_env_file_miniconda='https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' # latest 2024-06-11

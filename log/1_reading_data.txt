@@ -1,0 +1,13 @@
+SLURM_JOB_ID: 57126217
+SLURM_JOB_USER: vsc36511
+SLURM_JOB_ACCOUNT: intro_vsc36511
+SLURM_JOB_NAME: run_pylis_read
+SLURM_CLUSTER_NAME: genius
+SLURM_JOB_PARTITION: batch
+SLURM_NNODES: 1
+SLURM_NODELIST: r27i27n15
+SLURM_JOB_CPUS_PER_NODE: 4
+Date: Tue Sep 24 14:04:01 CEST 2024
+Walltime: 01-00:00:00
+========================================================================
+It is recommended to set date_shift=False for instantaneous outputs.

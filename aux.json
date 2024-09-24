@@ -1,0 +1,27 @@
+{
+    "Vegetation parameters": {
+        "New IGBP_MODIS_BU+tundra Landcover Class Legend": {
+            "__ref__": "ftp://ftp.emc.ncep.noaa.gov/mmb/gcp/ldas/noahlsm/README",
+            "1": "Evergreen Needleleaf Forest",
+            "2": "Evergreen Broadleaf Forest",
+            "3": "Deciduous Needleleaf Forest",
+            "4": "Deciduous Broadleaf Forest",
+            "5": "Mixed Forests",
+            "6": "Closed Shrublands",
+            "7": "Open Shrublands",
+            "8": "Woody Savannas",
+            "9": "Savannas",
+            "10": "Grasslands",
+            "11": "Permanent Wetland",
+            "12": "Croplands",
+            "13": "Urban and Built-Up",
+            "14": "Cropland/Natural Vegetation Mosaic",
+            "15": "Snow and Ice",
+            "16": "Barren or Sparsely Vegetated",
+            "17": "Ocean",
+            "18": "Wooded Tundra",
+            "19": "Mixed Tundra",
+            "20": "Bare Ground Tundra"
+        }
+    }
+}

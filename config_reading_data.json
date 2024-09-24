@@ -1,0 +1,22 @@
+{
+    "lis_input_file": "/vsc-hard-mounts/leuven-data/365/vsc36511/WORK_AREA/EXPERIMENTS/TORGNON/lis_input_Torgnon_10km.nc",
+    "lis_dir": "/vsc-hard-mounts/leuven-data/365/vsc36511/WORK_AREA/EXPERIMENTS/TORGNON/OUTPUT/OL",
+    "lis_output_pattern": "SURFACEMODEL/*/LIS_HIST*.nc",
+    "output_dir": "/data/leuven/365/vsc36511/VSC_SHARED/output_pylis/longrun",
+    "start_date": "01/01/2010",
+    "end_date": "31/12/2010",
+    "freq": "15min",
+    "region_list": [
+        "Torgnon_forest",
+        "Torgnon_grass"
+    ],
+    "vars": "all",
+    "lon_centroid": [
+        7.56089,
+        7.578055
+    ],
+    "lat_centroid": [
+        45.82376,
+        45.84444
+    ]
+}
